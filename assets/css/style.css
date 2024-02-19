@@ -433,6 +433,12 @@ section {
 .about .content p:last-child {
   margin-bottom: 0;
 }
+/* Phil custom CSS */
+
+.about-minor-paragraph {
+  font-size: 0.8rem;
+  margin-top: 13px;
+}
 
 /*--------------------------------------------------------------
 # Facts
