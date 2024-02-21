@@ -440,6 +440,14 @@ section {
   margin-top: 35px;
 }
 
+.about .section-title {
+  margin-bottom: 50px;
+}
+
+.about .section-title p {
+  text-align: left;
+}
+
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
@@ -483,7 +491,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -516,6 +524,12 @@ section {
   height: 10px;
   transition: 0.9s;
   background-color: #0563bb;
+}
+
+/* Phil custom CSS */
+
+#skills {
+  margin-top: -30px;
 }
 
 /*--------------------------------------------------------------
